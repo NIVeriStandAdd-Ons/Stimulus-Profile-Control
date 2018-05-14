@@ -1,3 +1,6 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
+
 ## Stimulus Profile Control ##
 
 **Stimulus Profile Control** is a custom control which will allow you to run legacy NI VeriStand Stimulus Profiles (*.nivstest) directly from the Workspace.
